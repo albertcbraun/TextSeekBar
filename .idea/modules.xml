@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TextSeekBar.iml" filepath="$PROJECT_DIR$/TextSeekBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextSeekBarDemo/TextSeekBarDemo.iml" filepath="$PROJECT_DIR$/TextSeekBarDemo/TextSeekBarDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextSeekBarLib/TextSeekBarLib.iml" filepath="$PROJECT_DIR$/TextSeekBarLib/TextSeekBarLib.iml" />
+    </modules>
+  </component>
+</project>
+
