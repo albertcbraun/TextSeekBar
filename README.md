@@ -1,6 +1,6 @@
 ## Description
 
-A compound view which places a TextView object to the left of a horizontal SeekBar.
+A compound view which places a TextView to the left of a horizontal SeekBar.
 The TextView is automatically updated with the value of the SeekBar as the user adjusts it. 
 
 There's a "spacing" attribute in the TextSeekBar's XML tag which lets you specify the distance between
