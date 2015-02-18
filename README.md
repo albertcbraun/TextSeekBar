@@ -9,11 +9,17 @@ attribute in the TextSeekBar's XML tag which lets you specify the distance betwe
 
 ## How To Use
 
-It's an Android Studio project with gradle build files. There's a lib and a demo project which uses that lib.
+It's an Android Studio project with gradle build files. 
 
-Check out the project in Android Studio with the menu command: 
+There's a lib module (TextSeekBarLib) and a demo module (TextSeekBarDemo) 
+which compiles against the lib module. 
+
+Check out the project from GitHub in Android Studio with the menu command:
+ 
     VCS | Checkout From Version Control | GitHub
-and the url 
+
+and the url:
+
     https://github.com/albertcbraun/TextSeekBar.git
 
 There's a custom parameter named "spacing" which adjusts the space between the
@@ -26,4 +32,4 @@ There's a custom parameter named "spacing" which adjusts the space between the
         android:layout_height="wrap_content"
     />
 
-See the TextSeekBarDemo app's main_activity.xml for a couple more examples.
+See the TextSeekBarDemo app's activity_main.xml for a couple more examples.
