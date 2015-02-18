@@ -9,7 +9,7 @@ attribute in the TextSeekBar's XML tag which lets you specify the distance betwe
 
 ## How To Use
 
-It's an Android Studio project with a gradle build files. There's a lib and a demo project which uses that lib.
+It's an Android Studio project with gradle build files. There's a lib and a demo project which uses that lib.
 
 Check out the project in Android Studio with the menu command: 
     VCS | Checkout From Version Control | GitHub
