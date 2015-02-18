@@ -3,8 +3,7 @@
 A compound view which combines a TextView object with a SeekBar. The TextView is automatically
 updated with the value of the SeekBar as the user adjusts it.
 
-![alt text](https://github.com/ "Screen shot")
-
+![Screenshot](https://github.com/albertcbraun/TextSeekBar/blob/master/screenshot.png "Screen shot")
 
 ## How To Use
 
